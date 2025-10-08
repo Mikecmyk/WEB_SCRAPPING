@@ -1,0 +1,92 @@
+[
+    {
+        "name": "A Light in the Attic",
+        "original_currency": "GBP",
+        "original_price": 51.77,
+        "converted_currency": "KES",
+        "converted_price": 8986.08,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "Tipping the Velvet",
+        "original_currency": "GBP",
+        "original_price": 53.74,
+        "converted_currency": "KES",
+        "converted_price": 9328.03,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "Soumission",
+        "original_currency": "GBP",
+        "original_price": 50.1,
+        "converted_currency": "KES",
+        "converted_price": 8696.21,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "Sharp Objects",
+        "original_currency": "GBP",
+        "original_price": 47.82,
+        "converted_currency": "KES",
+        "converted_price": 8300.45,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "Sapiens: A Brief History of Humankind",
+        "original_currency": "GBP",
+        "original_price": 54.23,
+        "converted_currency": "KES",
+        "converted_price": 9413.08,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "The Requiem Red",
+        "original_currency": "GBP",
+        "original_price": 22.65,
+        "converted_currency": "KES",
+        "converted_price": 3931.52,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "The Dirty Little Secrets of Getting Your Dream Job",
+        "original_currency": "GBP",
+        "original_price": 33.34,
+        "converted_currency": "KES",
+        "converted_price": 5787.06,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+        "original_currency": "GBP",
+        "original_price": 17.93,
+        "converted_currency": "KES",
+        "converted_price": 3112.24,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+        "original_currency": "GBP",
+        "original_price": 22.6,
+        "converted_currency": "KES",
+        "converted_price": 3922.84,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    },
+    {
+        "name": "The Black Maria",
+        "original_currency": "GBP",
+        "original_price": 52.15,
+        "converted_currency": "KES",
+        "converted_price": 9052.04,
+        "conversion_rate": 173.577,
+        "conversion_timestamp": "2025-10-08 03:02:32"
+    }
+]

@@ -1,0 +1,6 @@
+"/m/software-dev/Python/WEB_SCRAPPING/my-env/Scripts/mongoimport.exe" \
+  --uri "mongodb+srv://michaelmwaura846_db_user:<Fala4458>@cluster0.tfhcke0.mongodb.net/" \
+  --db webdata \
+  --collection products \
+  --file product_prices_converted.json \
+  --jsonArray
